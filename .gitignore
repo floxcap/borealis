@@ -9,3 +9,5 @@ build.nx/
 .vscode
 builddir
 *.dksh
+
+library/libborealis.a
